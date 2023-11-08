@@ -1,0 +1,14 @@
+Git Hub
+
+
+What is version control system
+
+
+Repository
+Folder that contains everything 
+
+Read me file
+Basic instructions about the project 
+
+Commit
+Saving the file 
